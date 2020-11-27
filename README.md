@@ -2,4 +2,4 @@
 
 List of Files:
 
-1. Satanic Pinger
+1. RinneganPinger.bat
